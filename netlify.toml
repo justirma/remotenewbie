@@ -1,0 +1,13 @@
+[build]
+publish = "public"
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.64.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+
+# This is a starter template for Netlify builds. See the following links for more:
+# https://www.netlify.com/docs/continuous-deployment/#deploy-contexts
+# https://www.netlify.com/blog/2017/04/11/netlify-plus-hugo-0.20-and-beyond/
