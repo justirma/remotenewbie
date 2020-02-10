@@ -1,7 +1,7 @@
 ---
 title: Wondering if remote work is right for you? Find out.
 date: 2019-10-20
-hero: /images/hero-4.jpg
+hero: /images/remote6.jpg
 excerpt: Remote work is becoming more of a norm.
 authors:
   - Thor Schroeder

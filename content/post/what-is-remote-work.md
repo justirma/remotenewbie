@@ -1,7 +1,7 @@
 ---
 title: What is remote work? And what you should know about it in 2019
 date: 2019-08-27
-hero: /images/hero-4.jpg
+hero: /images/coffeeshop.jpg
 excerpt: You may know of remote work in a few different ways, let’s cover them.
 authors:
 ---

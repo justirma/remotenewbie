@@ -1,7 +1,7 @@
 ---
 title: 3 tips for onboarding remote employees
 date: 2019-08-11
-hero: "/images/hero-3.jpg"
+hero: "/images/remote4.jpg"
 excerpt: Okay, so not only is it difficult to hire remote employees but it’s even harder to onboard them.
 authors:
   - Irma Mesa

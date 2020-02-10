@@ -1,7 +1,7 @@
 ---
 title: Dear founders, here's how to handle the surge of remote work
 date: 2019-09-19
-hero: "/images/hero-3.jpg"
+hero: "/images/remotework6.jpg"
 excerpt: A letter to founders and managers
 authors:
   - Irma Mesa

@@ -1,7 +1,7 @@
 ---
 title: Find remote engineering roles today
 date: 2019-07-28
-hero: "/images/hero-3.jpg"
+hero: "/images/remote1.jpg"
 excerpt: I'll be covering 2 big topics to help you find and land your next Remote Engineering role.
 authors:
   - Irma Mesa

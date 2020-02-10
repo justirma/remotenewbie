@@ -1,7 +1,7 @@
 ---
 title: How to deal with loneliness as a remote worker?
 date: 2019-07-29
-hero: /images/hero-6.jpg
+hero: /images/remote5.jpg
 excerpt: Ever since I've started to work remote I've felt loneliness almost consistently.
 authors:
   - Irma Mesa
@@ -17,7 +17,7 @@ Let's dive into a few ways you can sorta defeat the lonely while working from ho
 
 ### Online communities
 
-![Picture of a Slack Workspace](/img/blog/wwrslack.png)
+![Picture of a Slack Workspace](/images/wwrslack.png)
 
 This is probably the most accessible for many remote workers. Finding online communities that are dedicated spaces for remote folks, digital nomads or location independent individuals has the lowest barrier to entry. These spaces are usually free and they're made up the most genuine and easy-going people who are feeling the lonely as well.
 
@@ -25,7 +25,7 @@ Join a space, you can probably do a quick Google search. Try staying active in t
 
 ### Co-working spaces (virtual or physical)
 
-![laptop on wooden table](/img/blog/coworking.png)
+![laptop on wooden table](/images/coworking.png)
 
 Co-working spaces are fantastic as they provide that in-office feeling without actually being at your work office. These spaces are usually spacious, clean, homey, and provide you with free coffee, snacks, and wifi. The biggest plus is that other people are working on their projects as well! So you can swoop into a desk with another co-worker and work near them making it feel as if you're not working alone.
 
@@ -35,7 +35,7 @@ Small plug. I run a virtual co-working meetup for minorities. You can find it by
 
 ### Coffee shops
 
-![Latte and notebook on wooden table at a coffee shop](/img/blog/coffeeshop.jpg)
+![Latte and notebook on wooden table at a coffee shop](/images/coffeeshop.jpg)
 
 Okay, so I may have some disagreements here because it's too loud and you leave smelling like delicious Central American coffee beans (who doesn't love this?!?) but I still believe that coffee shops are my sweet place. It's not too expensive like frequenting a co-working space but it's low cost to be able to be near other people.
 

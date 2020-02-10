@@ -1,5 +1,5 @@
 ---
 hero:
-  heading: Welcome to Remote Newbie, the simplest way to start publishing with Hugo.
+  heading: The best remote work and future of work reads.
   maxWidthPX: 652
 ---
