@@ -58,4 +58,6 @@ These are a few core things you should look out for:
 
 Good luck! If you need specific help, don't hesitate to reach out.
 
+Thanks for reading! If you have a few seconds would love for you to check out [Meet Cafecito](https://meetcafecito.com). I'm on a mission to support remote workers in squashing isolation by introducing and connecting local remote workers to each other. Any feedback or questions? Reach out! 
+
 Make sure to keep up with my blogs, courses, and free webinars by subscribing to [my weekly newsletter.](https://theremotenewbie.substack.com)

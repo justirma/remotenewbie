@@ -50,4 +50,6 @@ How ever you go about it or whatever decision you make, try it, or at the very l
 
 **This guest post was written by Thor Schroeder**. [Follow Thor](https://twitter.com/thorms11).
 
-Thanks for reading! Make sure to keep up with my blogs, courses, and free webinars by subscribing to [my weekly newsletter.](https://theremotenewbie.substack.com)
+Thanks for reading! If you have a few seconds would love for you to check out [Meet Cafecito](https://meetcafecito.com). I'm on a mission to support remote workers in squashing isolation by introducing and connecting local remote workers to each other. Any feedback or questions? Reach out! 
+
+Make sure to keep up with my blogs, courses, and free webinars by subscribing to [my weekly newsletter.](https://theremotenewbie.substack.com)

@@ -40,4 +40,6 @@ So, set up a template in Google Docs that has a short checklist of the high prio
 
 [X] Scheduled 3 virtual chats with different team members
 
+Thanks for reading! If you have a few seconds would love for you to check out [Meet Cafecito](https://meetcafecito.com). I'm on a mission to support remote workers in squashing isolation by introducing and connecting local remote workers to each other. Any feedback or questions? Reach out! 
+
 Make sure to keep up with my blogs, courses, and free webinars by subscribing to [my weekly newsletter.](https://theremotenewbie.substack.com)

@@ -43,4 +43,6 @@ So, if you know of a company that is not keeping up with the trend of remote wor
 
 These 3 suggestions are suggestions. But those that commit to doing all three, starting right now are way ahead of the game.
 
-If you have any specific questions on stomping on kicking off your first remote team, reach out! Make sure to keep up with my blogs, courses, and free webinars by subscribing to [my weekly newsletter.](https://theremotenewbie.substack.com)
+Thanks for reading! If you have a few seconds would love for you to check out [Meet Cafecito](https://meetcafecito.com). I'm on a mission to support remote workers in squashing isolation by introducing and connecting local remote workers to each other. Any feedback or questions? Reach out! 
+
+Make sure to keep up with my blogs, courses, and free webinars by subscribing to [my weekly newsletter.](https://theremotenewbie.substack.com)
