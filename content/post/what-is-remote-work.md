@@ -36,6 +36,4 @@ I don’t want anyone to think that remote work is slacking off, that it’s for
 
 At the end of the day working from an office or working from home, we’re still getting work done and we’re still delivering outcomes while also keeping our mental health, engagement and, productivity in a healthy state.
 
-Thanks for reading! If you have a few seconds would love for you to check out [Meet Cafecito](https://meetcafecito.com). I'm on a mission to support remote workers in squashing isolation by introducing and connecting local remote workers to each other. Any feedback or questions? Reach out! 
-
-Make sure to keep up with my blogs, courses, and free webinars by subscribing to [my weekly newsletter.](https://theremotenewbie.substack.com)
+Thanks for reading! If you have a few seconds would love for you to check out [Meet Cafecito](https://meetcafecito.com). I'm on a mission to support remote workers in squashing isolation by introducing and connecting local remote workers to each other. Any feedback or questions? Reach out!

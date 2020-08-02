@@ -1,14 +1,14 @@
 baseURL: ""
 languageCode: "en-us"
-title: "Remote Newbie"
+title: "Cafecito Blog"
 disableKinds: ["taxonomy", "taxonomyTerm"]
 pygmentsstyle: "monokai"
 paginate: 6
 social:
-  twitter: "https://twitter.com/remotenewbie"
-  instagram: "https://instagram.com/remoteindy"
-  youtube: "https://www.youtube.com/channel/UCh1t4RdWMZ2mfYTWfpFaZNg"
-  facebook: "https://www.facebook.com/remotenewbie/"
+  twitter: "https://twitter.com/meetcafecito"
+  instagram: "https://instagram.com/meetcafecito"
+  youtube: ""
+  facebook: "https://www.facebook.com/meetcafecito/"
   patreon: ""
 taxonomies:
   author: authors

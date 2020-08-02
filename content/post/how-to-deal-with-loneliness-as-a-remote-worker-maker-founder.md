@@ -39,6 +39,4 @@ It's also super simple to strike up a random conversation in line or with the ba
 
 For us introverted remote workers this may be the last thing we want to do BUT hear me out you'll find lots of opportunities at meetups to network and find others who are int he same boat as you.
 
-Thanks for reading! If you have a few seconds would love for you to check out [Meet Cafecito](https://meetcafecito.com). I'm on a mission to support remote workers in squashing isolation by introducing and connecting local remote workers to each other. Any feedback or questions? Reach out! 
-
-Make sure to keep up with my blogs, courses, and free webinars by subscribing to [my weekly newsletter.](https://theremotenewbie.substack.com)
+Thanks for reading! If you have a few seconds would love for you to check out [Meet Cafecito](https://meetcafecito.com). I'm on a mission to support remote workers in squashing isolation by introducing and connecting local remote workers to each other. Any feedback or questions? Reach out!

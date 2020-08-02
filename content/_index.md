@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: The best remote work and future of work reads.
+  heading: 
   maxWidthPX: 652
   authors: 
     -  Irma Mesa
